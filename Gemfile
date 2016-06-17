@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'mime-types', '~>2.99'
 gem 'rails', '3.2.13'
 
 # Bundle edge Rails instead:
