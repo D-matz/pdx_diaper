@@ -7,7 +7,7 @@ gem 'rails', '3.2.13'
 
 gem 'pg', group: :production
 gem 'sqlite3', group: [:development, :test]
-gem 'dotenv-rails', group: :production
+gem 'dotenv-rails'
 
 # Gems used only for assets and not required
 # in production environments by default.
